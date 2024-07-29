@@ -1,0 +1,6 @@
+@WebAPI8_trajeton_HostAddress = http://localhost:5245
+
+GET {{WebAPI8_trajeton_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
