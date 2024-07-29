@@ -32,12 +32,10 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
+
     app.UseDeveloperExceptionPage();
     app.UseSwagger();
     app.UseSwaggerUI();
-}
 
 // Adicione app.UseCors antes de app.UseAuthorization e app.MapControllers
 app.UseCors("AllowAnyOrigin");

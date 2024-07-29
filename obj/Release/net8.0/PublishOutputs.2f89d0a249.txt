@@ -1,0 +1,16 @@
+C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Release\net8.0\PubTmp\Out\WebAPI8-trajeton.exe
+C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Release\net8.0\PubTmp\Out\WebAPI8-trajeton.dll
+C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Release\net8.0\PubTmp\Out\WebAPI8-trajeton.runtimeconfig.json
+C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Release\net8.0\PubTmp\Out\WebAPI8-trajeton.pdb
+C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Release\net8.0\PubTmp\Out\Npgsql.dll
+C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Release\net8.0\PubTmp\Out\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Release\net8.0\PubTmp\Out\WebAPI8-trajeton.deps.json

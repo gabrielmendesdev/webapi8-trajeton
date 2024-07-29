@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAPI8-trajeton")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e154bbecac98318427c7a2a63372602875cb14d")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAPI8-trajeton")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAPI8-trajeton")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

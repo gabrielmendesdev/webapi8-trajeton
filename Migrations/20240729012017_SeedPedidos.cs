@@ -22,7 +22,12 @@ namespace WebAPI8_trajeton.Migrations
                     3 => "Cartão de débito",
                     _ => "Pix"
                 }; // Forma de pagamento aleatória
-                var status = random.NextDouble() < 0.8 ? "Entregue" : "Pendente"; // 80% chance de "Entregue"
+                var status = random.NextDouble() switch
+                {
+                    < 0.8 => "Entregue", // 80% chance de "Entregue"
+                    < 0.9 => "Em Preparação", // 10% chance de "Em Preparação"
+                    _ => "Em Entrega" // 10% chance de "Em Entrega"
+                };
                 var activity = "Ativo"; // Todos os pedidos terão "Ativo" como atividade
 
                 migrationBuilder.InsertData(

@@ -102,3 +102,4 @@ C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Debug\net8.0\r
 C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Debug\net8.0\WebAPI8-trajeton.pdb
 C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Debug\net8.0\WebAPI8-trajeton.genruntimeconfig.cache
 C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Debug\net8.0\ref\WebAPI8-trajeton.dll
+C:\Users\gabri\source\repos\WebAPI8-trajeton\WebAPI8-trajeton\obj\Debug\net8.0\WebAPI8-trajeton.sourcelink.json
